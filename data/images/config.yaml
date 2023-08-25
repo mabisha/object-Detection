@@ -1,0 +1,7 @@
+path: C:/Users/Dell/Downloads/data
+train: C:/Users/Dell/Downloads/data/images/train
+val: C:/Users/Dell/Downloads/data/images/val
+test: C:/Users/Dell/Downloads/data/images/test
+
+nc: 3
+classes: ["player", "refree", "football"]
